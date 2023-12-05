@@ -1,0 +1,15 @@
+C:\Users\bobby\documents\C#\CHeckOutt\bin\Debug\net6.0\CheckOutt.exe
+C:\Users\bobby\documents\C#\CHeckOutt\bin\Debug\net6.0\CheckOutt.deps.json
+C:\Users\bobby\documents\C#\CHeckOutt\bin\Debug\net6.0\CheckOutt.runtimeconfig.json
+C:\Users\bobby\documents\C#\CHeckOutt\bin\Debug\net6.0\CheckOutt.dll
+C:\Users\bobby\documents\C#\CHeckOutt\bin\Debug\net6.0\CheckOutt.pdb
+C:\Users\bobby\documents\C#\CHeckOutt\obj\Debug\net6.0\CheckOutt.csproj.AssemblyReference.cache
+C:\Users\bobby\documents\C#\CHeckOutt\obj\Debug\net6.0\CheckOutt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobby\documents\C#\CHeckOutt\obj\Debug\net6.0\CheckOutt.AssemblyInfoInputs.cache
+C:\Users\bobby\documents\C#\CHeckOutt\obj\Debug\net6.0\CheckOutt.AssemblyInfo.cs
+C:\Users\bobby\documents\C#\CHeckOutt\obj\Debug\net6.0\CheckOutt.csproj.CoreCompileInputs.cache
+C:\Users\bobby\documents\C#\CHeckOutt\obj\Debug\net6.0\CheckOutt.dll
+C:\Users\bobby\documents\C#\CHeckOutt\obj\Debug\net6.0\refint\CheckOutt.dll
+C:\Users\bobby\documents\C#\CHeckOutt\obj\Debug\net6.0\CheckOutt.pdb
+C:\Users\bobby\documents\C#\CHeckOutt\obj\Debug\net6.0\CheckOutt.genruntimeconfig.cache
+C:\Users\bobby\documents\C#\CHeckOutt\obj\Debug\net6.0\ref\CheckOutt.dll
