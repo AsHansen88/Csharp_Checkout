@@ -46,7 +46,7 @@ public void UdskrivPris(){
     var grupperetVarer = solgteVarer.GroupBy(v => v.varegruppe)
             .Select(g => new { Varegruppe = g.Key, AntalStyk = g.Sum(v => 1) });
 
-        Console.WriteLine("Solgte varer (Dyr):\n");
+        Console.WriteLine("Solgte varer (Dyr):");
         foreach (var gruppe in grupperetVarer)
         {
             Console.WriteLine($"Varegruppe {gruppe.Varegruppe}: {gruppe.AntalStyk} stk");

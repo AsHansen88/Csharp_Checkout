@@ -40,6 +40,6 @@ class BilligPrisBeregner : IPrisBeregner{
     }
 
     public void UdskrivPris(){
-        Console.WriteLine($"Total pris (Billig): {totalPris} kr");
+        Console.WriteLine($"Total pris (Billig): {totalPris} kr\n");
     }
 }
