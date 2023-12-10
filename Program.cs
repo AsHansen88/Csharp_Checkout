@@ -11,13 +11,18 @@ class Program{
         VareScannetHandler billigHandler = billigPrisberegner.BehandlerScannetVare;
         VareScannetHandler dyrHandler = dyrPrisberegner.BehandlerScannetVare;
 
-        char[] scannedVarer = { 'B', 'A', 'B', 'C', 'A', 'A', 'C', 'B' };
+        Console.WriteLine("Indtast varenavne (et ad gangen). Skriv 'exit' for at afslutte og se priser.");
 
-        foreach (char vareKode in scannedVarer)
-        {
-            billigHandler(vareKode);
-            dyrHandler(vareKode);
-            System.Threading.Thread.Sleep(500);
+        string input;
+        while((input = Console.ReadLine()) != "exit"){
+            if(!string.IsNullOrWhiteSpace(input) && input.Length == 1){
+                char vareKode = input[0];
+                billigHandler(vareKode);
+                dyrHandler(vareKode);
+            }
+            else{
+                Console.WriteLine("Ugyldigt input. Indtast venligst et enkelt bogstav for varen.");
+            }
         }
 
         billigPrisberegner.UdskrivPris();
